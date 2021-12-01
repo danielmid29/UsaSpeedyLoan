@@ -158,7 +158,7 @@ fast.
                         <li><i class="fas fa-check-circle"></i>Loans available despite bad credit scores.</li>
                         <li><i class="fas fa-check-circle"></i>No Paperwork.</li>
                     </ul>
-                    <a href="tel:+15129674743" class="btn-white scrool">Call: +15714410046</a>
+                    <a href="tel:+15129674743" class="btn-white scrool">Call: +17372951295</a>
                     <p>12pm-9pm EST(Mon - Fri)
                     </p>
                     
@@ -170,7 +170,7 @@ fast.
                 <h3>You have already Registered</h3>
                  <p style="color:green;font-weight:bold">Your case ID</p>
                 <p style="background:#315ea2;color:white;font-weight:bold;text-align:center">${userDetails.caseId}</p>
-                <a href="tel:+15714410046" class="cal-in" style="margin-top:5px">Call Now +15714410046</a>
+                <a href="tel:+17372951295" class="cal-in" style="margin-top:5px">Call Now +17372951295</a>
                 <h5>To complete your Application Process</h5> 
                 <div>
                     <form id="register-form" class="register-form register" action="/creditpass" method="post">
