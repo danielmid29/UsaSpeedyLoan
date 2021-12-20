@@ -148,7 +148,7 @@ Book Now">Apply Now</a>
                 <div class="row">
                     <div class="grid-display">
                     <c:forEach items = "${active}" var = "thirdweb">
-                        <a href="${thirdweb.webUrl}" class="cre-img" target="_blank">
+                        <a href="https:${thirdweb.webUrl}" class="cre-img" target="_blank">
                             <img src="data:image/jpg;base64,${thirdweb.webImage}" width="190px" height="190px">
                         </a>
                         </c:forEach>
